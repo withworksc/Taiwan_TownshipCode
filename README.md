@@ -1,4 +1,4 @@
-# Taiwan_CountyCode
+# Taiwan_TownshipCode
 
 The file contains machine readable township name and township code in Taiwan. 
 
